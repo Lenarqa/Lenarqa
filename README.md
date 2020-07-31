@@ -13,7 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenarqa&layout=compact&hide_border=true&theme=buefy)](https://github.com/Lenarqa/github-readme-stats)
 
-#Thank you for your attention!
+### Thank you for your attention! I am waiting for you to visit again!  :heart:
 
 ![goodbye](https://user-images.githubusercontent.com/37902865/89061130-61550500-d38e-11ea-9da3-b22764398b01.gif)
 
+### Before you go, don't forget watch some of my repositories.  :smiley_cat:

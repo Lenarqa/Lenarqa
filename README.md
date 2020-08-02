@@ -1,7 +1,7 @@
 ### Hi there, I'm Lenarqa 👋
 
 ## I'm a frontend & java script developer!
-- 🔭 I study at University and find some job!
+- 🔭 I study at University and finding some job!
 - 🌱 I’m currently learning phaser and js 
 - 🥅 2020 Goals: find some programmer job and learn more English
 - ⚡ Fast fact: I love to juggling and run

@@ -1,6 +1,7 @@
 <h3 align="center"> Hi there, I'm Lenarqa 👋 </h3>
 
 <h2 align="center"> I'm a frontend & java script developer! </h2>
+
 - 🔭 I study at University and finding some job!
 - 🌱 I’m currently learning phaser and js 
 - 🥅 2020 Goals: find some programmer job and learn more English

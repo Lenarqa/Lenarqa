@@ -1,6 +1,6 @@
-### Hi there, I'm Lenarqa 👋
+<h3 align="center"> Hi there, I'm Lenarqa 👋 </h3>
 
-## I'm a frontend & java script developer!
+<h2 align="center"> I'm a frontend & java script developer! </h2>
 - 🔭 I study at University and finding some job!
 - 🌱 I’m currently learning phaser and js 
 - 🥅 2020 Goals: find some programmer job and learn more English
@@ -13,8 +13,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenarqa&layout=compact&hide_border=true&theme=buefy)](https://github.com/Lenarqa/github-readme-stats)
 
-### Thank you for your attention! I am waiting for you to visit again!  :heart:
+<h3 align="center"> Thank you for your attention! I am waiting for you to visit again!  :heart: </h3>
+
+<h3 align="center">
 
 ![goodbye](https://user-images.githubusercontent.com/37902865/89061130-61550500-d38e-11ea-9da3-b22764398b01.gif)
 
-### Before you go, don't forget watch some of my repositories.  :smiley_cat:
+</h3>
+
+<h3 align="center"> Before you go, don't forget watch some of my repositories.  :smiley_cat: </h3>

@@ -3,7 +3,8 @@
 <h2 align="center"> I'm a frontend & java script developer! </h2>
 
 - 🔭 I study at University and finding some job!
-- 🌱 I’m currently learning phaser and js 
+- 🌱 I’m currently learning JS
+- 🐈 Love cats!
 - 🥅 2020 Goals: find some programmer job and learn more English
 - ⚡ Fast fact: I love to juggling and run
 - 💬 Ask me about something. To connect with me, use my [website](https://valievlr.ru/). There you find all my contacts.

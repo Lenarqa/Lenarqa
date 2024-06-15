@@ -2,11 +2,9 @@
 
 <h2 align="center"> I'm a frontend (React) & java script developer! </h2>
 
-- 🔭 I study at University and finding some job!
-- 🌱 I’m currently learning JS
+- 🔭 I work in the mobile development department at the company Intrice.
+- 🌱 I’m currently learning React
 - 🐈 Love cats!
-- 🥅 2022 Goals: find some programmer job and learn more English
-- ⚡ Fast fact: I love to juggling and run
 - 💬 Ask me about something. To connect with me, use my [website](https://valievlr.ru/). There you find all my contacts.
 
 <img align="left" alt="Lenarqa Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lenarqa&show_icons=true&hide_border=true&hide=issues,contribs,prs&theme=buefy" />

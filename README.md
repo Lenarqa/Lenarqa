@@ -5,7 +5,6 @@
 - 🔭 I work in the mobile development department at the company Intrice.
 - 🌱 I’m currently learning React
 - 🐈 Love cats!
-- 💬 Ask me about something. To connect with me, use my [website](https://valievlr.ru/). There you find all my contacts.
 
 <img align="left" alt="Lenarqa Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lenarqa&show_icons=true&hide_border=true&hide=issues,contribs,prs&theme=buefy" />
 
